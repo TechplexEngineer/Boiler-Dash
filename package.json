@@ -1,0 +1,19 @@
+{
+  "name": "boiler-dash",
+  "version": "1.0.0",
+  "description": "Home Automation Boiler Dashboard",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TechplexEngineer/Boiler-Dash.git"
+  },
+  "author": "Blake Bourque <Techplex Engineer>",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/TechplexEngineer/Boiler-Dash/issues"
+  },
+  "homepage": "https://github.com/TechplexEngineer/Boiler-Dash#readme"
+}
