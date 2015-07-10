@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TechplexEngineer/Boiler-Dash/issues"
   },
-  "homepage": "https://github.com/TechplexEngineer/Boiler-Dash#readme"
+  "homepage": "https://github.com/TechplexEngineer/Boiler-Dash#readme",
+  "dependencies": {
+    "socket.io": "^1.3.5"
+  }
 }
